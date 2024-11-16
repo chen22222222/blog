@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>晨晨的博客</title>
+  <title>passion&#39;s blog</title>
   <icon>https://www.gravatar.com/avatar/72982b319641c2b0f34019dfda466b76</icon>
-  <subtitle>生活明朗 万物可爱</subtitle>
+  
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
@@ -10,7 +10,7 @@
   <id>http://example.com/</id>
   
   <author>
-    <name>chen</name>
+    <name>passion</name>
     <email>2094456563@qq.com</email>
   </author>
   
